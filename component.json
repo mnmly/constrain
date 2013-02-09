@@ -1,0 +1,13 @@
+{
+  "name": "constrain",
+  "repo": "mnmly/constrain",
+  "description": "Constrains a value to not exceed a maximum and minimum value. (Ported from processing.js)",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
