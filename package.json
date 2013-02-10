@@ -4,10 +4,10 @@
   "description": "Constrains a value to not exceed a maximum and minimum value. Ported from processing.js",
   "main": "index.js",
   "directories": {
-    "test": "make test"
+    "test": "test"
   },
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
